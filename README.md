@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benetzold
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Frontend development
+- 👀 I’m interested in data
+- 🌱 I’m currently learning SQL | Python 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me benjaminetzold@gmail.com
 
